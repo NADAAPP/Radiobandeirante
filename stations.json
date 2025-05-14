@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Porto Alegre | 94.9 FM",
+        "streamUrl": "https://medradio.ice.infomaniak.ch/medradio-128.mp3",
+        "drawableName": "medradio"
+    },
+    {
+        "id": 2,
+        "name": "São Paulo | 90.9 FM",
+        "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/RadioBandeirantesAAC.m3u8?dist=bandradio-web",
+        "drawableName": "aswat"
+    },
+    {
+        "id": 3,
+        "name": "Campinas | 1170 AM",
+        "streamUrl": "https://stm23.xcast.com.br:11284/stream/1/",
+        "drawableName": "chada"
+    },
+    {
+        "id": 4,
+        "name": "Ribeirão Preto- AM 1270",
+        "streamUrl": "https://26663.live.streamtheworld.com/RADIOBANDEIRANTES.mp3",
+        "drawableName": "medi1"
+    }
+    
+]
